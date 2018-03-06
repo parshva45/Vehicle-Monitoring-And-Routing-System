@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">VMARS Updated</string>
+<string name="action_settings">Settings</string>
+<string name="hello_world">Hello world!</string>
+<string name="str_btn_draw">Draw Route</string>
+<string name="title_activity_maps">VMARS Updated</string>
+
+</resources>
